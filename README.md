@@ -8,7 +8,7 @@ Move the blue square (player) left and right to dodge the falling red squares (o
 
 ## 🖥️ Screenshot / Gameplay GIF
 
-![Gameplay GIF](assets/balls1.gif)
+![Gameplay GIF](assets/cubes.gif)
 
 ## 🎯 Features
 
